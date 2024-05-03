@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "date-easter": "^1.0.3",
+    "express": "^4.19.2",
+    "luxon": "^3.4.4"
+  }
+}
